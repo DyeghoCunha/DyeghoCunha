@@ -12,7 +12,7 @@
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
@@ -33,6 +33,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <br>
   <br>
+
   
  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
@@ -57,3 +58,6 @@
   <a href="https://www.linkedin.com/in/dyegho-cunha-aa4933b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ![Snake animation](https://github.com/DyeghoCunha/DyeghoCunha/blob/917e3ff550ed4bd58985c7f9007e701a8441237d/.github/workflows/main.yml)
+
