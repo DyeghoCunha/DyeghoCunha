@@ -9,10 +9,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeghoCunha&layout=compact&theme=gotham">
+</div>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
@@ -45,7 +47,7 @@
   <br>
   <br>
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/totoro-gif-18565551">
+
 </div>
   
 
