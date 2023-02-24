@@ -28,24 +28,21 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <br>
   <br>
-</div>
-  <div style="display: inline_block"><br>
-  
- 
+  </div>
+
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-         
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">   
   <br>
   <br>
 
 
 </div>
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px src="https://github.com/DyeghoCunha/GlassMorphism---Card/blob/ea762f190fb894d5ca2ec186cddc32d496324cda/totoro.gif">
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/DyeghoCunha/GlassMorphism---Card/blob/ea762f190fb894d5ca2ec186cddc32d496324cda/totoro.gif">
+  
  
 <div> 
 
