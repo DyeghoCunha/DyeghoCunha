@@ -4,8 +4,8 @@
 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeghoCunha&layout=compact&theme=gotham">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeghoCunha&layout=compact&theme=gotham">
 </div>
 
 ##
