@@ -30,7 +30,7 @@
   <br>
 </div>
   <div style="display: inline_block"><br>
-  ![](https://github.com/DyeghoCunha/Estudos/blob/main/totoro.gif)
+  
  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -45,6 +45,7 @@
 </div>
   
 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/DyeghoCunha/GlassMorphism---Card/blob/ea762f190fb894d5ca2ec186cddc32d496324cda/totoro.gif">
  
 <div> 
 
