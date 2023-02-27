@@ -10,14 +10,16 @@
 
 ##
 
-<br>
-<br>
+<div align ="left">
 <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<br>
-<br>
-
-- 🔭 I’m currently working as Tax Auditor, but willing to be a full timme Front End Dev.
+ <br>
+   <div align"right">
+- 🔭 I’m currently working as Tax Auditor, but willing to be a full timme Front End Dev. <br>
 - 😄 Pronouns: Fell free to chose s2
+   </div>
+   <br>
+  
+</div>
 
 ## 
 <div style="display: inline_block"><br>
