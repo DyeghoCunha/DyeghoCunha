@@ -30,7 +30,6 @@
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <br>
   <br>
   <br>
@@ -38,9 +37,10 @@
    
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" >
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" >
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
   <br>
   <br>
   <br>
@@ -53,6 +53,7 @@
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">   
   <br>
   <br>
+  <img align="center" src="https://raw.githubusercontent.com/{DyeghoCunha}/{DyeghoCunha}/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" />
 
 
 
