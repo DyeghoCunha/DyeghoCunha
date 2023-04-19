@@ -14,7 +14,7 @@
 <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  <br>
    <div align"right">
-- 🔭 I’m currently working as Tax Auditor, but willing to be a full timme Front End Dev. <br>
+- 🔭 I’m currently working as Tax Auditor, but willing to be a full timme Front-End and Mobile Dev. <br>
 - 😄 Pronouns: Fell free to chose s2
    </div>
    <br>
@@ -25,46 +25,49 @@
 <div style="display: inline_block"><br>
    <img align="right"  height="270" style="border-radius:50px" src="https://github.com/DyeghoCunha/GlassMorphism---Card/blob/ea762f190fb894d5ca2ec186cddc32d496324cda/totoro.gif">
    
-  
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
   <br>
   <br>
   <br>
   <br>
+ 
+   
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" >
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" >
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+          
+          
   
   <br>
   <br>
   <br>
   <br>
-
+  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="left" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">   
   <br>
   <br>
-  <img align="center" src="https://raw.githubusercontent.com/{DyeghoCunha}/{DyeghoCunha}/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" />
+ 
 
 
 
 </div>
  <br>
   <br> 
-  <br>
-  <br> 
-  <br>
-  <br> 
-  <br>
-  <br>
+ 
  
 <div> 
 
