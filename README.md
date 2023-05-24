@@ -23,7 +23,7 @@
 
 ## 
 <div style="display: inline_block"><br>
-   <img align="right"  height="270" style="border-radius:50px" src="https://github.com/DyeghoCunha/GlassMorphism---Card/blob/ea762f190fb894d5ca2ec186cddc32d496324cda/totoro.gif">
+   <img align="right"  height="270" style="border-radius:50px" src="https://github.com/DyeghoCunha/Estudos/blob/main/PASTA%20DE%20TEMPLATES/87c7e838eac7a0a62e485ccbcb784c96.gif?raw=true">
    
   <img align="left" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
   <img align="left" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
