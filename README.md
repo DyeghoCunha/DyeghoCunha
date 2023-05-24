@@ -14,7 +14,7 @@
 <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  <br>
    <div align"right">
-- 🔭 I’m currently working as Tax Auditor, but willing to be a full timme Front-End and Mobile Dev. <br>
+- 🔭 I’m currently working as a Senior Tax Auditor, but willing to be a full timme Front-End and Mobile Dev. <br>
 - 😄 Pronouns: Fell free to chose s2
    </div>
    <br>
