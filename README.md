@@ -78,7 +78,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/DyeghoCunha/DyeghoCunha/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dyeghocunha/dyeghocunha/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
