@@ -249,8 +249,8 @@ científicos</li>
   <img width="100%" src="https://streak-stats.demolab.com?user=DyeghoCunha&theme=tokyonight&hide_border=true" />
 </div>
 <div align= "center">
-<img align="right" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeghoCunha&layout=compact&theme=gotham" />
-<img align="left" height="203px" src="https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeghoCunha&layout=compact&theme=gotham" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DyeghoCunha&show_icons=true&theme=gotham" />
 </div>
 <br/>
 <div align="center">
