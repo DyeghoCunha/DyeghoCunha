@@ -32,7 +32,7 @@
 alt="" />
 <ul>
   <li>🤩️ Apaixonado por Programação.</li>
-  <li>💻 <b>Trabalho</b> na Excel Digitalização de Dados onde desempenho o papel tando de Auditor Fiscal quanto de Desenvolvedor
+  <li>💻 <b>Trabalho</b> na Excel Digitalização de Dados onde desempenho o papel tanto de Auditor Fiscal quanto de Desenvolvedor
   <li>🔭 Com mais de 5 anos de <b>experiência</b>, tenho autonomia em  desenvolvimento Front-End com React e <b>Mobile</b> com Flutter</li>
   <li>🔮 Estou me especializando Mobile, pois meu objetivo a longo prazo é me tornar desenvolvedor Android.</li>
   <li>🇺🇸 Tenho inglês avançado e alemão intermediário.</li>
