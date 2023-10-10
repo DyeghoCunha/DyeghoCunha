@@ -33,24 +33,22 @@ alt="" />
 <ul>
   <li>🤩️ Apaixonado por Programação.</li>
   <li>💻 <b>Trabalho</b> na Excel Digitalização de Dados onde desempenho o papel tanto de Auditor Fiscal quanto de Desenvolvedor
-  <li>🔭 Com mais de 5 anos de <b>experiência</b>, tenho autonomia em  desenvolvimento Front-End com React e <b>Mobile</b> com Flutter</li>
-  <li>🔮 Estou me especializando Mobile, pois meu objetivo a longo prazo é me tornar desenvolvedor Android.</li>
+  <!--<li>🔭 Com mais de 5 anos de <b>experiência</b>, tenho autonomia em  desenvolvimento Front-End com React e <b>Mobile</b> com Flutter</li> -->
+  <li>🔮 Estou me especializando em Mobile, pois meu objetivo a longo prazo é me tornar desenvolvedor Android.</li>
   <li>🇺🇸 Tenho inglês avançado e alemão intermediário.</li>
-  <li>
+ <li>
     <details>
-      <summary>👽 Curiosidades:</summary>
-      <ul>
-        <li>Sou Formado em Tecnologia em Construção Naval</li>  
-        <li>Tambem sou Formado em Engenharia Industrial Mecanica</li>
-        <li>Tambem sou Formado em Ciencias Biológicas</li>
-<li> Trabalhei alguns anos com desenvolvimento de equipamentos Oceanográficos e Análises de Zooplankton, onde publiquei vários artigos 
-científicos</li>
-        <li>E....tambem sou formado em Ciencias Contabeis</li>
-      </ul>
+        <summary>👽 Curiosidades:</summary>
+        <ul>
+            <li>Sou Formado em Tecnologia em Construção Naval</li>
+            <li>Também sou Formado em Engenharia Industrial Mecânica</li>
+            <li>Também sou Formado em Ciências Biológicas</li>
+            <li>Trabalhei alguns anos com desenvolvimento de equipamentos Oceanográficos e Análises de Zooplankton, onde publiquei vários artigos científicos como <a href="https://www.lajar.cl/index.php/rlajar/article/view/vol44-issue5-fulltext-5/765">este</a></li>
+            <li>E também sou formado em Ciências Contábeis com especialização em recuperação tributária</li>
+        </ul>
     </details>
-  </li>
-</ul>
-<br/>
+</li>
+
 
 <hr/>
 
