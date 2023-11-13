@@ -163,14 +163,6 @@ alt="" />
           </b>
       </sub>
     </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=chakra" width="65px" alt="tailwind icon"/><br/>
-        <sub>
-          <b>
-            <pre>TailWind</pre>
-          </b>
-      </sub>
-    </td>
   </tr>
   <tr>
     <td align="center">
