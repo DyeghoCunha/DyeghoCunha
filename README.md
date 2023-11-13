@@ -75,15 +75,6 @@ alt="" />
         </sub>
       </a>
     </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="vue icon"/><br/>
-        <sub>
-          <b>
-            <pre>Vue</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
   </tr>
     <tr>
      <td align="center">
@@ -166,6 +157,14 @@ alt="" />
     </td>
   <td align="center">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br/>
+        <sub>
+          <b>
+            <pre>TailWind</pre>
+          </b>
+      </sub>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=chakra" width="65px" alt="tailwind icon"/><br/>
         <sub>
           <b>
             <pre>TailWind</pre>
