@@ -142,151 +142,88 @@
 <div align="center">
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
 </div>
-
+<br/><br/>
 <div align="center" width="100%">
     <img align="left" height="600px" width="40%" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
     
-<table align="right" height="400px" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
-        <sub>
-          <b>
-            <pre>React.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="flutter icon"/><br/>
-        <sub>
-          <b>
-            <pre>Flutter</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
+<table align="right" width="60%">
     <tr>
-     <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Typescript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="dart icon"/><br/>
-        <sub>
-          <b>
-            <pre>Dart</pre>
-          </b>
-        </sub>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
-        <sub>
-          <b>
-            <pre>Firebase</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td> 
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
- <tr>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-        <sub>
-          <b>
-            <pre>Sass</pre>
-          </b>
-      </sub>
-    </td>
-  <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br/>
-        <sub>
-          <b>
-            <pre>TailWind</pre>
-          </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-<td align="center">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="android studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>Android Studio</pre>
-          </b>
-        </sub>
-    </td>
-  </tr>
-</table>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/><br/>
+            <sub><b><pre>Python</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=go" width="65px" alt="GoLang icon"/><br/>
+            <sub><b><pre>GoLang</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+            <sub><b><pre>JavaScript</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+            <sub><b><pre>TypeScript</pre></b></sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br/>
+            <sub><b><pre>PostgreSQL</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
+            <sub><b><pre>MySQL</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/><br/>
+            <sub><b><pre>MongoDB</pre></b></sub>
+        </td>
+            <td align="center">
+            <img src="https://skillicons.dev/icons?i=pycharm" width="65px" alt="PyCharm icon"/><br/>
+            <sub><b><pre>PyCharm</pre></b></sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+            <sub><b><pre>React.js</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next.js icon"/><br/>
+            <sub><b><pre>Next.js</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="Flutter icon"/><br/>
+            <sub><b><pre>Flutter</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br/>
+            <sub><b><pre>Dart</pre></b></sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br/>
+            <sub><b><pre>AWS</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=gcp" width="65px" alt="Google Cloud icon"/><br/>
+            <sub><b><pre>Google Cloud</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br/>
+            <sub><b><pre>Docker</pre></b></sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+            <sub><b><pre>VSCode</pre></b></sub>
+        </td>
+    </tr>
+</table><br/><br/>
+<div align="center">
+    <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
+</div>
+
 </div>
 
 
