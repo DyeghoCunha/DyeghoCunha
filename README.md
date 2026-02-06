@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
     <table border="0" cellpadding="4" cellspacing="0" width="340px">
         <tr align="center">
             <td  width="150px">
@@ -9,7 +9,7 @@
             </td>
         </tr>
     </table>
-</div>
+</div> -->
 <a href="" alt="Banner de Perfil">
   <img align="center" width="100%" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/capaData.png?raw=true" />
 </a>
@@ -28,7 +28,7 @@
     <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/linkedin.png?raw=true" alt="Etiqueta do Linkedin" height="60px" />
     &nbsp;
   </a>
-  </a>
+  <!-- </a> -->
   <a href="https://wa.me/5547999110554?text=Ola,%20DyeghoCunha!%20Vim%20pelo%20seu%20Github!" target="_blank">
     <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/zap.png?raw=true" alt="Etiqueta do Whatsapp" height="60px" />
     &nbsp;
@@ -41,7 +41,7 @@
 
 <br/>
 <p align="justify"></br></br>
-    Sou <b>Dyegho Moraes Costa Gama Cunha</b>, um especialista em <b>Data & Value Creation</b> cuja trajetória profissional é definida pela capacidade de aplicar o rigor da Ciência de Dados para resolver problemas complexos em múltiplos domínios. Minha formação diversificada em Engenharia, Ciências e Contabilidade me permite atuar na interseção entre </b>Fintech, Engenharia Estrutural e Gestão Operacional</b>, traduzindo dados brutos em estratégias que garantem lucratividade e integridade.
+    Sou <b>Dyegho Moraes Costa Gama Cunha</b>, focado em <b>Data & Value Creation</b> cuja trajetória profissional é definida pela capacidade de aplicar o rigor da Ciência de Dados para resolver problemas complexos em múltiplos domínios. Minha formação diversificada em Engenharia, Ciências e Contabilidade me permite atuar na interseção entre </b>Fintech, Engenharia Estrutural e Gestão Operacional</b>, traduzindo dados brutos em estratégias que garantem lucratividade e integridade.
 </p></br></br>
 <div align="center">
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
