@@ -10,9 +10,7 @@
         </tr>
     </table>
 </div> -->
-<a href="" alt="Banner de Perfil">
-  <img align="center" width="100%" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/capaData.png?raw=true" />
-</a>
+<a href="" alt="Banner de Perfil"><img align="center" width="100%" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/capaData.png?raw=true" /></a>
 
 <div align="center">
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
@@ -20,19 +18,22 @@
 
 <br/>
 <p align="center">
-  <a href="mailto:dyeghocunha@gmail.com" target="_blank">
-    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/email.png?raw=true" alt="Etiqueta do Gmail" height="60px" />
-    &nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/dyeghocunha" target="_blank">
-    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/linkedin.png?raw=true" alt="Etiqueta do Linkedin" height="60px" />
-    &nbsp;
-  </a>
-  <!-- </a> -->
-  <a href="https://wa.me/5547999110554?text=Ola,%20DyeghoCunha!%20Vim%20pelo%20seu%20Github!" target="_blank">
-    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/zap.png?raw=true" alt="Etiqueta do Whatsapp" height="60px" />
-    &nbsp;
-  </a>
+<p align="center"> 
+    
+  <a href="mailto:dyeghocunha@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/email.png?raw=true" alt="Etiqueta do Gmail" height="60px" />
+  </a>
+  &nbsp;
+  
+  <a href="https://www.linkedin.com/in/dyeghocunha" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/linkedin.png?raw=true" alt="Etiqueta do Linkedin" height="60px" />
+  </a>
+  &nbsp;
+  
+  <a href="https://wa.me/5547999110554?text=Ola,%20DyeghoCunha!%20Vim%20pelo%20seu%20Github!" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/zap.png?raw=true" alt="Etiqueta do Whatsapp" height="60px" />
+  </a>
+</p>
 </p>
 
 <div align="center">
@@ -47,7 +48,7 @@
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
 </div>
 <div align="center">
-<h1>💡 Minha Proposta de Valor: Dados como Alavanca de Negócios</h1>
+<h1> Minha Proposta de Valor: Dados como Alavanca de Negócios</h1>
 </div>
 <p>Minha experiência se concentra em três pilares, onde os dados são a ferramenta central para a otimização e a mitigação de riscos:</p>
 <ul>
@@ -75,18 +76,22 @@
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
 </div>
 <div align="center">
-<h1>🚀 Direcionamento e Habilidades</h1>
+<h1> Direcionamento e Habilidades</h1>
 </div>
 <ul>
-<li>📈 <b>Especialização Ativa:</b> Atualmente cursando <b>Engenharia de Software</b> e buscando o <b>MBA em Data Science & Big Data</b>, combinando visão de negócios com profundidade técnica.</li>
+<li><b>Arquitetura de Transformação (Analytics Engineering):</b> Foco na construção de pipelines de dados robustos e modelagem dimensional. Especialista em traduzir regras de negócio complexas (fiscais, financeiras e operacionais) em camadas de dados confiáveis e escaláveis, garantindo uma "única fonte da verdade".</li>
     </br>
-<li>🗣️ <b>Comunicação Global:</b> Proficiente em <b>Inglês (C2)</b> e <b>Alemão (Intermediário)</b>, facilitando a colaboração com equipes internacionais e o acesso a documentação técnica avançada.</li>
+    <li><b>Integração e Cultura Data-Driven:</b> Experiência em orquestrar o ecossistema de dados para suporte à decisão estratégica, unindo a visão de Engenharia de Software à inteligência de Big Data para otimizar processos de KYC, antifraude e eficiência logística.</li>
+</br>
+<li><b>Comunicação Técnica Global:</b> Proficiente em <b>Inglês (C2)</b> e <b>Alemão (Intermediário)</b>, permitindo a atuação em projetos internacionais e o domínio de documentações técnicas de ponta para implementação de novas tecnologias</li>
+
+    
 </ul></br></br>
 <div align="center">
     <img align="center" src="https://github.com/DyeghoCunha/DyeghoCunha/blob/main/images/div2.png?raw=true" width="100%" alt="Título da seção Sobre Mim" />
 </div>
 <div align="center">
-<h1>📚 Formação Acadêmica e Especializações</h1>
+<h1>Formação Acadêmica e Especializações</h1>
 
     
 
